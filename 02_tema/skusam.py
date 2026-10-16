@@ -1,0 +1,2 @@
+a=imput("prve čislo")
+   
